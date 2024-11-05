@@ -49,7 +49,7 @@
         </executions>
         <configuration>
           <!-- The package of your generated sources -->
-          <packageName>com.example.myschema</packageName>
+          <packageName>nz.ac.massey.cs.sdc.parsers</packageName>
           <outputDirectory>src/main/java</outputDirectory>
           <generateEpisode>false</generateEpisode>
           <clearOutputDir>false</clearOutputDir>
